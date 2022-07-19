@@ -1,4 +1,5 @@
 import psycopg2
+# pythonでpostgreSQLを操作するためのライブラリ
 
 # 接続情報
 # dbname:接続先のDB名, host:接続先のアドレス, user:接続に使用するDBユーザ名, password:接続に使用するDBユーザのパスワード
